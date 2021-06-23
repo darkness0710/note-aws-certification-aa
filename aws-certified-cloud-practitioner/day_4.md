@@ -1,13 +1,3 @@
-<style>
-	strong {
-	    color: blue;
-	}
-</style>
-
-# Quiz
-##  Clouds Made Of
-- https://quizlet.com/nz/478127004/aws-ccp-chapter-1-what-are-clouds-made-of-flash-cards/
-
 # CHAPTER 1.1
 - An Important Note About A Cloud Guru and Linux Academy Courses
 
