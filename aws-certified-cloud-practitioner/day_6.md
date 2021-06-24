@@ -118,3 +118,15 @@
 	- **AWS Regions**
 	- Subnets
 	- AWS resources
+
+- What is a VPC?
+	- A type of AWS account
+	- A subsection of a private network
+	- **A logically isolated section of the AWS Cloud used as a virtual network**
+	- A public cloud
+
+- A subnet is a _____.
+	- VPC
+	- Firewall
+	- Table that directs traffic
+	- **Subsection of a network**
