@@ -7,7 +7,7 @@
 # CHAPTER 10.3
 - CloudFront and DNS: Just the FAQs and Wrap It Up!
 
-- CloudFront include?
+- CloudFront include? (Choose 5)
 	- Domain Registration
 	- **Which of the following are benefits of CloudFront?**
 	- **High transfer speeds**
