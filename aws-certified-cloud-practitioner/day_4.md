@@ -1,3 +1,6 @@
+(setq markdown-css-paths
+    '("./assets/base.css"))
+
 # CHAPTER 1.1
 - An Important Note About A Cloud Guru and Linux Academy Courses
 
