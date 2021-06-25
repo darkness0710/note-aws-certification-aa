@@ -51,3 +51,22 @@ ELB and Auto Scaling
 	- **Create an Auto Scaling Group**
 	- Add another EC2 instance
 	- Add another ELB
+
+- We have 3 EC2 instances and notice that traffic is routing to only one EC2 instance. Which of the following will allow us to distribute traffic amongst the EC2 instances?
+	- VPC
+	- **ELB**
+	- Auto Scaling Group
+	- S3
+
+- What are the three types of AWS load balancers? (Choose 3)
+		- Adaptable Load Balancer
+		- Reverse Proxy Load Balancer
+		- **Classic Load Balancer**
+		- **Application Load Balancer**
+		- **Network Load Balancer**
+
+- CloudWatch is a service for _____
+	- Caching content
+	- Sending notifications
+	- Logging API calls to AWS resources
+	- **Monitoring AWS resources**
