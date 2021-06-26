@@ -11,3 +11,5 @@ Domain 4: Billing and Pricing          |            16%
 ```
 
 -> Xem ở quiz.md
+
+[Quiz](https://github.com/darkness0710/note-aws-certification-aa/blob/main/aws-certified-cloud-practitioner/quiz.md)
