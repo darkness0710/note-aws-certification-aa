@@ -13,6 +13,30 @@
 # CHAPTER 17.5
 - AWS Whitepapers and Documentation
 
+# What are the 7 core checks trusted advisor?
+	- S3 Bucket Permissions.
+	- Security Groups – Specific Ports Unrestricted.
+	- IAM Use.
+	- MFA on Root Account.
+	- EBS Public Snapshots.
+	- RDS Public Snapshots.
+	- Service Limits.
+
+# Six Advantages of Cloud Computing
+	- Trade capital expense for variable expense – Instead of having to invest heavily in data centers and servers before you know how you’re going to use them, you can pay only when you consume computing resources, and pay only for how much you consume.
+
+	- Benefit from massive economies of scale – By using cloud computing, you can achieve a lower variable cost than you can get on your own. Because usage from hundreds of thousands of customers is aggregated in the cloud, providers such as AWS can achieve higher economies of scale, which translates into lower pay as-you-go prices.
+
+	- Stop guessing capacity – Eliminate guessing on your infrastructure capacity needs. When you make a capacity decision prior to deploying an application, you often end up either sitting on expensive idle resources or dealing with limited capacity. With cloud computing, these problems go away. You can access as much or as little capacity as you need, and scale up and down as required with only a few minutes’ notice.
+
+	 - Increase speed and agility – In a cloud computing environment, new IT resources are only a click away, which means that you reduce the time to make those resources available to your developers from weeks to just minutes. This results in a dramatic increase in agility for the organization, since the cost and time it takes to experiment and develop is significantly lower.
+
+	- Stop spending money running and maintaining data centers – Focus on projects that differentiate your business, not the infrastructure. Cloud computing lets you focus on your own customers, rather than on the heavy lifting of racking, stacking, and powering servers.
+
+	- Go global in minutes – Easily deploy your application in multiple regions around the world with just a few clicks. This means you can provide lower latency and a better experience for your customers at minimal cost.
+
+-------------------------------------
+
 - AWS Cost Explorer will forecast _____ months of billing.
 	- **12 months**
 	- 6 months
@@ -126,3 +150,45 @@
 	- **AWS Cost Explorer**
 	- AWS Pricing Calculator
 	- AWS Organizations
+
+- Which of the following is not one of the seven core checks performed by AWS Trusted Advisor? (Choose 2)
+	- **Unassociated Elastic IP Addresses**
+	- IAM use
+	- **Amazon EC2 Reserved Instances Optimization**
+	- EBS Public Snapshots
+	- RDS Public Snapshots
+	- Security Groups (port checks)
+
+- Which of the following type of AWS account receives the highest priority access to customer service and technical support?
+	- Basic
+	- Business
+	- Enterprise
+	- Developer
+
+- Which of the following is true about the AWS Pricing Model?
+	- AWS requires a notice of termination 30 days before cancellation.
+	- **AWS does not charge a termination fee.**
+	- AWS requires full payment in advance for all services used.
+	- AWS charges a sign-up fee for starting an AWS account.
+
+- Which of the following types of AWS accounts have access to AWS Trusted Advisor? Please select the most appropriate answer.
+	- **Basic, Developer, Business, and Enterprise**
+	- Business and Enterprise
+	- Basic
+	- Developer, Business, and Enterprise
+	- Basic and Developer
+	- Basic, Professional, Developer, Business, and Enterprise
+
+- Which of the following AWS accounts do not have 24/7 access to Cloud Support Engineers? Please select the most appropriate answer.
+	- Business
+	- Developer
+	- Business and Enterprise
+	- Basic
+	- Basic, Business, and Enterprise
+	- **Basic and Developer**
+
+- Which of the following type of AWS account will receive support in less than 15 minutes when the support care is related to business-critical systems down?
+	- **Enterprise**
+	- Basic
+	- Developer
+	- Business
