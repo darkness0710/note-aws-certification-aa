@@ -18,6 +18,9 @@ Nên lựa chọn Pearson Vue là tổ chức khảo thí, vì đơn giản tên
 7. Máy tính hiển thị kết quả pass hay fail ngay lập tức, trong vòng 5 ngày amazon gửi mail báo kết quả chính thức.
 
 # Kiến thức có trong bài thi
-50~70% số câu hỏi có tại: https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-c/
-20% số câu hỏi có tại https://awscloudpractitionerexamprepro.firebaseapp.com/index_cpp_mock_exam3_game.html (Exam 1,2,3)
-10% số câu hỏi mở rộng dựa theo hiểu biết!
+- 50~70% số câu hỏi có tại: https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-c/
+- 20% số câu hỏi có tại https://awscloudpractitionerexamprepro.firebaseapp.com/index_cpp_mock_exam3_game.html (Exam 1,2,3)
+- 10% số câu hỏi mở rộng dựa theo hiểu biết!
+
+# Một số câu hỏi chắc chắn có
+1. 4 loại câu hình ec2 
